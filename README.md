@@ -16,7 +16,7 @@ Follow this common workflow to start a new project by using this starter repo.
 7. Open a terminal in VS Code - PowerShell if Windows, zsh or bash if Mac/Linux.
 8. Git add and commit with a useful message (e.g. "initial commit") and push to GitHub.
 
-## Task 1. Create and Manage your Project Virtual Environment
+## Create and Manage your Project Virtual Environment
 
 We will use pika, which is not included in the Python Standard Library. We must install it. 
 To keep our project separate from all other Python projects, we will create and manage a local project virtual environment.
